@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Abhishek Mishra<br>👀 I’m interested in Programming,Tech and Businesses.<br>🌱 I’m currently a Full Stack Developer with 5.5 years of <br>     experience<br>📫 You can reach me on linkedin @abhishekMIshra<br>😄 
+👋 Hi, I’m Abhishek Mishra<br>👀 I’m interested in Programming,Tech and Businesses.<br>🌱 I’m currently a Full Stack Developer with 5.5 years of <br>     experience<br>📫 You can reach me on linkedin @abhishekMishra<br>😄 
 
 
 # 💻 Tech Stack:
